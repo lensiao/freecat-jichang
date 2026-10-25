@@ -8,10 +8,10 @@
 
 <p align="center">
 <a href="https://t.rtxk.us/t/twfhqma"><img alt="自由猫 官网注册" src="https://img.shields.io/badge/%E8%87%AA%E7%94%B1%E7%8C%AB-%E5%AE%98%E7%BD%91%E6%B3%A8%E5%86%8C-E5795D?style=for-the-badge"></a>
-<a href="https://air-rem.github.io/freecat/"><img alt="完整评测" src="https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E8%AF%84%E6%B5%8B-AIRREM_%E9%A2%86%E8%88%AA-1F2937?style=for-the-badge"></a>
+<a href="https://555736.xyz/freecat/"><img alt="完整评测" src="https://img.shields.io/badge/%E5%AE%8C%E6%95%B4%E8%AF%84%E6%B5%8B-%E4%BF%A1%E5%8F%B7%E5%A1%94_SignalTower-1F2937?style=for-the-badge"></a>
 </p>
 
-👉 **[自由猫 官网注册入口](https://t.rtxk.us/t/twfhqma)** ｜ [完整评测与横向对比](https://air-rem.github.io/freecat/)
+👉 **[自由猫 官网注册入口](https://t.rtxk.us/t/twfhqma)** ｜ [完整评测与横向对比](https://555736.xyz/freecat/)
 
 ---
 
@@ -98,38 +98,11 @@ A：上手相对成熟，但建议先月付测试节点与客服再长期用。
 
 拿不定主意？可以再看看这几家同类型的：
 
-- **[守候](https://air-rem.github.io/shouhou/)** — 稳健老用户 / Emby 影音，¥15 起
-- **[淘气兔](https://air-rem.github.io/taoqitu/)** — 联通移动用户，¥7.8 起
-- **[边界云加速器](https://air-rem.github.io/lvpn/)** — AI 优化 + 稳定办公，¥9.97 起
+- **[守候](https://555736.xyz/shouhou/)** — 稳健老用户 / Emby 影音，¥15 起
+- **[淘气兔](https://555736.xyz/taoqitu/)** — 联通移动用户，¥7.8 起
+- **[边界云加速器](https://555736.xyz/lvpn/)** — AI 优化 + 稳定办公，¥9.97 起
 
-全部 38 家机场的横向对比与选购方法论：**[AIRREM 领航 · 机场大全](https://air-rem.github.io/airports/)**
-
-
-自由猫 再好，也只是让你**连得上**。连上之后要用 Claude / GPT / Gemini，可以看看下面这个：
-
-<p align="center">
-<a href="https://i.rtxk.us/i/r37kbkg"><img alt="Leonis AI 中转站" src="https://img.shields.io/badge/Leonis_AI-One_Endpoint_All_Models-F7B441?style=for-the-badge&labelColor=9C5606"></a>
-<a href="https://i.rtxk.us/i/r37kbkg"><img alt="免费注册领体验额度" src="https://img.shields.io/badge/Free_Signup-Trial_Credit-EFA22B?style=for-the-badge&labelColor=9C5606"></a>
-<a href="https://guide.rtxk.us/tutorial/ai-coding/leonis-ai-cc-switch-guide.html"><img alt="cc-switch 接入教程" src="https://img.shields.io/badge/Setup_Guide-cc--switch-9C5606?style=for-the-badge"></a>
-</p>
-
-> ### 🦁 Leonis AI 中转站 —— 一个端点，抵达所有模型
->
-> 机场解决「**连得上**」，[Leonis AI](https://i.rtxk.us/i/r37kbkg) 解决「**用得顺**」。把 **Claude、GPT、Gemini、Grok、Antigravity 等 6+ 模型** 统一成同一个 API 端点：**不改代码、不换客户端，只替换一行 Base URL**。
->
-> - **原生工具直连**：Claude Code、Codex CLI、Cherry Studio、NextChat、OpenAI SDK 官方客户端直接用，不需要额外插件或魔改。
-> - **全程流式不缓冲**：长回答边生成边吐字，不会卡到最后一次性蹦出来。
-> - **多账号池调度**：后端多号轮询，单号被限流时自动顶上，稳定性更好。
-> - **一个密钥全模型**：Claude、GPT、Gemini 共用一把 `sk-` 密钥，省心。
->
-> ```bash
-> export ANTHROPIC_BASE_URL=https://你的专属端点
-> export ANTHROPIC_AUTH_TOKEN=sk-你的密钥
-> claude
-> ```
->
-> OpenAI 兼容客户端填 `https://你的专属端点/v1`；也支持 cc-switch「导入到 CCS」一键导入。
-> 邮箱注册几十秒，**注册即送体验额度** → **[免费注册 Leonis AI](https://i.rtxk.us/i/r37kbkg)** ｜ [cc-switch 接入教程](https://guide.rtxk.us/tutorial/ai-coding/leonis-ai-cc-switch-guide.html)
+全部 38 家机场的横向对比与选购方法论：**[信号塔 SignalTower · 机场大全](https://555736.xyz/airports/)**
 
 ---
 
